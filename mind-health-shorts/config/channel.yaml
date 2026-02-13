@@ -1,0 +1,10 @@
+# 채널 톤/템플릿/금칙어/고정문구
+channel_name: "mind-health-shorts"
+tone: "calm, supportive, evidence-informed"
+template:
+  hook: "오늘의 마음 체크인"
+  body: "호흡 3번, 감정 이름 붙이기, 작은 행동 하나"
+  outro: "필요하면 전문가의 도움을 받아요"
+forbidden_words: []
+fixed_phrases:
+  - "이 영상은 정보 제공용이며 의료적 진단을 대체하지 않습니다."
